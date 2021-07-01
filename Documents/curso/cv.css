@@ -1,0 +1,58 @@
+*{margin:0px;padding:0px}
+
+body{
+    font-family: 'Benne', serif;
+    max-width: 2000px;
+    background:black;
+}
+
+/*-Pagina-*/
+.pagina{
+    width:80%;
+    margin:auto;
+    
+}
+
+/*-header-*/
+.header{
+    background:rgb(133, 106, 106);
+    color:black;
+    padding:5px;
+    
+}
+/*-section-*/
+.section{
+    text-align: center;
+    background: rgb(19, 18, 18);
+    border: 1px solid rgb(253, 253, 253);
+}
+
+.section .nombre{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+}
+
+/*-Section datos -*/
+h2{
+    color:rgb(190, 202, 12);
+}
+.section .listaDatos{
+    color:white;
+    font-size:20px;
+    
+}
+.section .listaDatos ul{
+    list-style:none;
+}
+
+/*-section perfil -*/
+.section .perfil{
+color:white;
+font-size:20px;
+}
+
+/*-footer-*/
+.pagina .footer{
+    background:white;
+}
