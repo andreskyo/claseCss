@@ -1,0 +1,77 @@
+*{margin:0px;padding:0px}
+
+body{
+    font-family: 'Benne', serif;
+    max-width: 2000px;
+    background-image: linear-gradient(to right top, #d10579, #a71460, #7f1848, #591732, #35131f, #29141f, #1e141b, #141314, #1d1c1e, #262528, #302f32, #39393d);
+}
+
+/*-Pagina-*/
+.pagina{
+    width:80%;
+    margin:auto;
+    background: rgb(19, 18, 18,0.2);
+}
+
+/*-header-*/
+.header{
+    
+    color:rgb(231, 215, 215);
+    padding:5px;
+}
+/*-section-*/
+.section{
+    text-align: center;
+    
+}
+
+.section .nombre{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+}
+
+/*-Section datos -*/
+h2{
+    color:yellow;
+    
+}
+.section .listaDatos{
+    color:white;
+    font-size:20px;
+    
+}
+.section .listaDatos ul{
+    list-style:none;
+}
+
+/*-section perfil -*/
+.section .perfil{
+color:white;
+font-size:20px;
+}
+
+/*-footer-*/
+.footer {
+    background: rgb(19, 18, 18,0.2);
+    margin:40px auto;
+    width: 40%;
+    border-radius:5px;
+    
+}
+ .footer h2{
+    
+    font-size: 20px;
+    text-align: center;
+}
+ .footer a{
+    text-decoration: none;
+    color:white;
+    border:1px solid black;
+    
+}
+.footer a:hover{
+    background:black;
+}
+
+
